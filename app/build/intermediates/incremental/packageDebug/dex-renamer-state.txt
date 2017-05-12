@@ -1,0 +1,7 @@
+#Fri May 12 16:41:12 PDT 2017
+base.0=C\:\\Users\\amy61\\Desktop\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dd57870b1c90932ff31791cf4b19b82587daceed
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\amy61\\Desktop\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_62c6e39832f6a2f5d17ac810072577141626b597\\classes.dex
+base.1=C\:\\Users\\amy61\\Desktop\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_62c6e39832f6a2f5d17ac810072577141626b597
+file.0=C\:\\Users\\amy61\\Desktop\\ch08_TipCalculator\\ch08_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dd57870b1c90932ff31791cf4b19b82587daceed\\classes.dex
